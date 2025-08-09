@@ -72,7 +72,7 @@ To get started with this project, clone the repository and install the necessary
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/PriyanshuLathi/Log-Analysis-and-Security-Insights
+    git clone https://github.com/ritik-06/Log-Anonymization-Threat-Detection-Too.git
     ```
 
 2. **Navigate to the project directory:**
@@ -86,26 +86,3 @@ To get started with this project, clone the repository and install the necessary
     ```bash
     pip install -r requirements.txt
     ```
-
-4. **Run the script:**
-
-    ```bash
-    python log_analysis_script.py
-    ```
-
-The script will analyze the log file (`sample.log` by default), detect suspicious activity, and generate CSV output and visualizations.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/PriyanshuLathi/Log-Analysis-and-Security-Insights/blob/main/LICENSE) file for details.
-
-## Contact
-
-For questions or feedback:
-
-- LinkedIn: [Priyanshu Lathi](https://www.linkedin.com/in/priyanshu-lathi)
-- GitHub: [Priyanshu Lathi](https://github.com/PriyanshuLathi)
-
-## Authors
-
-- Priyanshu Lathi
